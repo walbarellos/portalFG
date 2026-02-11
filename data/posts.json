@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": "Novo Concurso PF Autorizado: 2.000 Vagas Previstas",
+    "slug": "novo-concurso-pf-autorizado-2000-vagas",
+    "subtitle": "Expectativa alta para o novo certame da Polícia Federal. Veja os detalhes e comece a estudar.",
+    "category": "Concursos",
+    "image": "https://images.unsplash.com/photo-1596726848268-d05a967c301d?q=80&w=1000&auto=format&fit=crop",
+    "content": "<p>Foi autorizado o novo concurso da Polícia Federal com previsão de 2.000 vagas para diversos cargos.</p><p>As oportunidades serão para Agente, Escrivão e Delegado. A banca organizadora ainda não foi definida, mas a expectativa é que o edital seja publicado ainda este ano.</p><h3>O que estudar?</h3><p>Candidatos devem focar em Português, Informática, Raciocínio Lógico e Direito.</p>",
+    "createdAt": "2023-10-26T10:00:00Z",
+    "author": "Glauber"
+  },
+  {
+    "id": "2",
+    "title": "Operação Integrada na Fronteira: PRF e PF em Ação",
+    "slug": "operacao-integrada-fronteira-prf-pf",
+    "subtitle": "Forças de segurança apreendem toneladas de ilícitos em operação conjunta no Mato Grosso do Sul.",
+    "category": "Operações",
+    "image": "https://images.unsplash.com/photo-1628157588553-5eeea00af15c?q=80&w=1000&auto=format&fit=crop",
+    "content": "<p>Em uma ação coordenada entre a Polícia Rodoviária Federal (PRF) e a Polícia Federal (PF), foram apreendidas mais de 5 toneladas de entorpecentes na fronteira com o Paraguai.</p><p>A operação, denominada 'Sentinela', visa combater o tráfico internacional de drogas e armas.</p>",
+    "createdAt": "2023-10-25T14:30:00Z",
+    "author": "Redação"
+  },
+  {
+    "id": "3",
+    "title": "Entrevista Exclusiva: A Rotina na Academia de Polícia",
+    "slug": "entrevista-exclusiva-rotina-academia-policia",
+    "subtitle": "Conversamos com instrutores da ANP sobre o dia a dia de formação dos novos agentes.",
+    "category": "Entrevistas",
+    "image": "https://images.unsplash.com/photo-1551884170-09fb70a3a2ed?q=80&w=1000&auto=format&fit=crop",
+    "content": "<p>A formação policial é intensa e exige dedicação total. Nesta entrevista exclusiva, mostramos os bastidores da Academia Nacional de Polícia.</p><p>Os alunos passam por treinamentos físicos, aulas de tiro, defesa pessoal e legislação.</p>",
+    "createdAt": "2023-10-24T09:15:00Z",
+    "author": "Equipe FG"
+  },
+  {
+    "id": "4",
+    "title": "Análise do Edital PC-SP: Pontos Chave",
+    "slug": "analise-edital-pc-sp",
+    "subtitle": "Tudo o que você precisa saber sobre o concurso da Polícia Civil de São Paulo.",
+    "category": "Análises",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?q=80&w=1000&auto=format&fit=crop",
+    "content": "<p>O edital da PC-SP trouxe surpresas na distribuição de vagas e conteúdo programático.</p><p>Nesta análise, detalhamos as disciplinas com maior peso e a estratégia ideal para a prova oral.</p>",
+    "createdAt": "2023-10-23T18:00:00Z",
+    "author": "Prof. Silva"
+  }
+]
